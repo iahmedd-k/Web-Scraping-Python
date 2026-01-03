@@ -47,7 +47,7 @@ def kmp_search(text, pattern):
     return positions
 
 
-# -------- MAIN PART (THIS PRODUCES OUTPUT) --------
+# -------- MAIN PART (THIS PRODUCES OUTPUT) ------
 
 text = "ABABDABACDABABCABAB"
 pattern = "ABABCABAB"
